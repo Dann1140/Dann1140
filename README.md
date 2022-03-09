@@ -1,3 +1,4 @@
 I am a medical doctor, with training as a Full-Stack Web Developer focused on Frontend. 
-I manage Javascript, CSS and HTML, Mongo DB, Express, and React languages, among others. I have extensive communication skills and experience in managing digital projects and services.  
-Special knowledge for web based projects whithin the Healthcare industry.
+I am actually learning about React.js
+I'm interested in working as a FrontEnd Developer.
+my interests are technology, videogames, healthcare system news.
